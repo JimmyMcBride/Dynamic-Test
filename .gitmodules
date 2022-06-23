@@ -1,0 +1,3 @@
+[submodule "CleanArchitectureNoteApp"]
+	path = CleanArchitectureNoteApp
+	url = git@github.com:JimmyMcBride/CleanArchitectureNoteApp.git
